@@ -1,0 +1,12 @@
+{
+  "name": "HeadyBot",
+  "tagline": "Autonomous Bot Framework",
+  "description": "Autonomous bot orchestration — swarm intelligence, event-driven architecture, and multi-platform deployment.",
+  "accent": "#34d399",
+  "features": [
+    {"icon": "🤖", "title": "Bot Orchestrator", "desc": "Coordinate multiple bots across platforms"},
+    {"icon": "🐝", "title": "Swarm Intelligence", "desc": "Collective AI decision-making"},
+    {"icon": "📡", "title": "Multi-Platform", "desc": "Deploy to Discord, Slack, Telegram, and more"},
+    {"icon": "⚡", "title": "Event-Driven", "desc": "Reactive architecture with pub/sub messaging"}
+  ]
+}
